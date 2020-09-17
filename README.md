@@ -2,7 +2,7 @@
 
 Goldstone is an open source network OS for TIP OOPT networking hardware
 
-### How to build project
+### How to build
 
 - prerequisite: Docker ( version >= 18.09 )
 
